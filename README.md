@@ -6,6 +6,8 @@
 
 이 프로젝트는 [insidedw/card-animation](https://github.com/insidedw/card-animation)의 소스 코드를 기반으로 한 개인 프로젝트입니다.
 
+[DEMO](https://insidedw.github.io/card-animation/)
+
 ![Card Animation Project Screenshot](https://ik.imagekit.io/crso3ztbifq/card-animation_VUgdHRzcw.PNG?updatedAt=1703382726214)
 
 ## 소개
