@@ -8,7 +8,7 @@
 
 [DEMO](https://insidedw.github.io/card-animation/)
 
-![Card Animation Project Screenshot](https://ik.imagekit.io/crso3ztbifq/card-animation_VUgdHRzcw.PNG?updatedAt=1703382726214)
+![Card Animation Project Screenshot](https://ik.imagekit.io/crso3ztbifq/card-animation2_ZPuAgMVER.PNG?updatedAt=1703385729412)
 
 ## 소개
 
