@@ -4,7 +4,7 @@
 
 # Card Animation Project
 
-이 프로젝트는 [insidedw/card-animation](https://github.com/insidedw/card-animation)의 소스 코드를 기반으로 한 개인 프로젝트입니다.
+이 프로젝트는 side-project 입니다. 재미있어 보이는것들 개발하고 추후 업무에 도움이 되길 희망합니다.
 
 [DEMO](https://insidedw.github.io/card-animation/)
 
@@ -15,7 +15,7 @@
 이 프로젝트는 기존 카드 애니메이션에 기반하여 추가적인 기능을 구현하고, 개선된 사용자 경험을 제공하는 것을 목표로 하고 있습니다.
 
 이 프로젝트의 핵심은 `input` + `label` element의 조합입니다.
-`input`과 `label` 연결시켜줌으로써 `label` 선택 시 `input` ratio checked가 활성화 되어 click event 제어를 전혀 할 필요 없습니다.
+`input`과 `label` 연결시켜줌으로써 `label` 선택 시 `input` radio checked가 활성화 되어 click event 제어를 전혀 할 필요 없습니다.
 checked 여부에 따라 width 값을 변경하고 transition 주어 smooth한 UI를 노출할 수 있었습니다.
 
 Card width에 따라 description 노출여부가 결정되어야 했습니다.
